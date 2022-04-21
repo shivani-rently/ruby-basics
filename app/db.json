@@ -1,5 +1,1 @@
-{
-  "shivani": { "name": "shivani", "pswd": "shivani@123" },
-  "neha": { "name": "neha", "pswd": "neha@123" },
-  "surya": { "name": "surya", "pswd": "surya@123" }
-}
+{"shivani":{"name":"shivani","email":"shivani@gmail.com","pswd":"shivani@123"},"surya":{"name":"surya","email":"surya@gmail.com","pswd":"surya@123"}}
