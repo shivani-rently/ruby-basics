@@ -30,7 +30,8 @@ def signin
             puts "Incorrect Password"
         end
     else
-        puts "User doesn't exist"
+        puts "User doesn't exist, please signup!"
+        signup
     end
 end
 

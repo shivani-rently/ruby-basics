@@ -1,0 +1,9 @@
+{
+  "shivani": {
+    "name": "shivani",
+    "email": "shivani@gmail.com",
+    "pswd": "shivani@123"
+  },
+  "surya": { "name": "surya", "email": "surya@gmail.com", "pswd": "surya@123" },
+  "neha": { "name": "neha", "email": "neha@gmail.com", "pswd": "neha@123" }
+}
